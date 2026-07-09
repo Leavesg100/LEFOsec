@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "leafosectest1",
+  "compatibility_date": "2026-07-09",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "Leafosec"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
